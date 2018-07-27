@@ -1,0 +1,34 @@
+body{
+    background-color: orangered;
+    font-family: cursive
+}
+h1{
+    color: whitesmoke;
+}
+#devour{
+    color: blueviolet;
+    background-image: url("../images/burg1.jpg");
+    background-size: 100px 100px;;
+    height: 100px;
+    width: 200px;
+}
+div{
+    font-size: 20px;
+    
+}
+#devoured{
+margin-left: 100px;
+}
+#b1{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px
+}
+#gob{
+    width: 600px;
+    background-image: url(../images/pickles.jpg)
+}
+#exdiv{
+    height: 135px;
+    width: 200px;
+}
